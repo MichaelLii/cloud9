@@ -142,7 +142,7 @@ var config = [
             "ext/anims/anims",
             "ext/guidedtour/guidedtour",
             "ext/quickstart/quickstart",
-            "ext/jslanguage/jslanguage",
+            // "ext/jslanguage/jslanguage",
             "ext/csslanguage/csslanguage",
             "ext/htmllanguage/htmllanguage",
             "ext/autotest/autotest",
